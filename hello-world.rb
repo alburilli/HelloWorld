@@ -1,2 +1,1 @@
-#!/usr/bin/env ruby
-puts "Olá, Mundo!"
+puts("Hello World!")
